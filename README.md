@@ -10,7 +10,7 @@ SecureDrop is a secure file transfer and messaging system that allows users to c
 ## Usage
 Covers how you can use the application
 ### Commands
-add: Add a new contact by entering their name and email.
-list: List online contacts.
-send: Transfer a file to a contact.
-exit: Exit SecureDrop.
+1. add: Add a new contact by entering their name and email.
+2. list: List online contacts.
+3. send: Transfer a file to a contact.
+4. exit: Exit SecureDrop.
